@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My blog</title>
-    <link>https://olivierbinette.github.io/RLIG/categories/</link>
+    <link>https://olivierbinette.github.io/RLIG/public/categories/</link>
     <description>Recent content in Categories on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://olivierbinette.github.io/RLIG/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://olivierbinette.github.io/RLIG/public/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
