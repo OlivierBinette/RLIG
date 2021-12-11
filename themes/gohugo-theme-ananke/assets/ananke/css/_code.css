@@ -4,6 +4,9 @@ pre, .pre  {
   overflow:   scroll;
 }
 
+h1 {
+  font-weight: bold;
+}
 
 pre  code {
   display: block;
