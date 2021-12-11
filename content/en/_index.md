@@ -1,6 +1,7 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "Record Linkage Interest Group"
 featured_image: '/images/network.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: "Welcome to ASA's Record Linkage Interest Group, which aims to bring together individuals interested in deterministic and probabilistic record linkage, entity resolution, data fusion, and statistical matching."
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

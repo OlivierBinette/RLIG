@@ -1,4 +1,4 @@
-title = "Notre-Dame de Paris"
+title = "Record Linkage Interest Group"
 baseURL = "https://olivierbinette.github.io/RLIG/public"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "My blog"
+    title = "RLIG"
     weight = 1
     contentDir = "content/en"
 
@@ -28,7 +28,7 @@ enableRobotsTXT = true
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  featured_image = "/images/network.jpg"
   recent_posts_number = 2
 
 [[params.ananke_socials]]

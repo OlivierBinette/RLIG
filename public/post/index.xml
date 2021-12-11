@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on My blog</title>
+    <title>Articles on RLIG</title>
     <link>https://olivierbinette.github.io/RLIG/public/post/</link>
-    <description>Recent content in Articles on My blog</description>
+    <description>Recent content in Articles on RLIG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://olivierbinette.github.io/RLIG/public/post/index.xml" rel="self" type="application/rss+xml" />

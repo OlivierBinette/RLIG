@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananke: a Hugo Theme on My blog</title>
+    <title>Record Linkage Interest Group on RLIG</title>
     <link>https://olivierbinette.github.io/RLIG/public/</link>
-    <description>Recent content in Ananke: a Hugo Theme on My blog</description>
+    <description>Recent content in Record Linkage Interest Group on RLIG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Dec 2021 22:55:45 -0500</lastBuildDate><atom:link href="https://olivierbinette.github.io/RLIG/public/index.xml" rel="self" type="application/rss+xml" />
