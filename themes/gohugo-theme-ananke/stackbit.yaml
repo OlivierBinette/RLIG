@@ -128,33 +128,10 @@ models:
   home:
     type: page
     label: Home
-    file: index.md
+    file: _index.md
     hideContent: false
     singleInstance: true
     layout: index.html
-    fields:
-      - type: string
-        name: title
-        label: Title
-        description: The title of the page.
-        required: true
-      - type: image
-        name: featured_image
-        label: Featured Image
-        description: Image displayed at in the pages intro section
-      - type: string
-        name: description
-        label: Description
-      - type: string
-        name: layout
-        label: layout
-  blog:
-    type: page
-    label: Blog
-    file: blog.md
-    hideContent: false
-    singleInstance: true
-    layout: blog.html
     fields:
       - type: string
         name: title
@@ -175,7 +152,7 @@ models:
     type: page
     label: Basic Page
     match: "*.md"
-    exclude: index.md
+    exclude: _index.md
     layout: page/single.html
     fields:
       - type: string
@@ -207,7 +184,7 @@ models:
   section:
     type: page
     label: Section
-    match: "*/index.md"
+    match: "*/_index.md"
     layout: _default/list.html
     fields:
       - type: string
@@ -235,7 +212,7 @@ models:
     type: page
     label: Posts
     folder: post
-    exclude: index.md
+    exclude: _index.md
     layout: _default/single.html
     fields:
       - type: string
