@@ -1,7 +1,14 @@
 ---
-title: "Ananke: a Hugo Theme"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+title: Contact
+featured_image: "images/notebook.jpg"
+omit_header_text: true
+description: We'd love to hear from you
+type: page
+menu: main
+
 ---
 
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+
+This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+
+{{< form-contact action="https://example.com"  >}}

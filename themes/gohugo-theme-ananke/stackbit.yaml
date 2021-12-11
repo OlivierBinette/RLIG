@@ -128,7 +128,7 @@ models:
   home:
     type: page
     label: Home
-    file: _index.md
+    file: index.md
     hideContent: false
     singleInstance: true
     layout: index.html
@@ -152,7 +152,7 @@ models:
     type: page
     label: Basic Page
     match: "*.md"
-    exclude: _index.md
+    exclude: index.md
     layout: page/single.html
     fields:
       - type: string
@@ -184,7 +184,7 @@ models:
   section:
     type: page
     label: Section
-    match: "*/_index.md"
+    match: "*/index.md"
     layout: _default/list.html
     fields:
       - type: string
@@ -212,7 +212,7 @@ models:
     type: page
     label: Posts
     folder: post
-    exclude: _index.md
+    exclude: index.md
     layout: _default/single.html
     fields:
       - type: string
